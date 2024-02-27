@@ -1,0 +1,3 @@
+[submodule "jenkins-pipeline-submodule1"]
+	path = jenkins-pipeline-submodule1
+	url = https://github.com/Akigaze/jenkins-pipeline-submodule1.git
